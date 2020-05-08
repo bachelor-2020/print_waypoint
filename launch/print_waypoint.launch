@@ -1,0 +1,4 @@
+<launch>
+  <node pkg="print_waypoint" type="print_waypoint.py" name="Print_Waypoint"  output="screen">
+  </node>
+</launch>
